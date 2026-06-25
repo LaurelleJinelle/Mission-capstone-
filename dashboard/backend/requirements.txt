@@ -1,0 +1,8 @@
+fastapi>=0.110
+uvicorn[standard]>=0.27
+pandas
+numpy
+# These are already required by feeder_env / train_ppo.py:
+gymnasium
+stable-baselines3
+torch
