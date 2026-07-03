@@ -8,9 +8,9 @@ service levels), evaluated against four baselines, and deployed as a React + Fas
 **Author:** LJ Nformi, BSc Software Engineering, African Leadership University
 **Supervisor:** Emmanuel Adjei
 
-> 🎥 **Demo video:** [link goes here after recording]
-> 🌐 **Live dashboard:** [link goes here after deployment]
-> 📄 **Thesis document:** [link goes here on submission]
+> 🎥 **Demo video:** [[here](https://drive.google.com/drive/folders/1Tzh3p19AjEc-ms6CfIx3-Bixp18AQlZR?usp=sharing)]
+> 🌐 **Live dashboard:** [[here](https://smartgrid-environemnt.vercel.app/)]
+> 📄 **Thesis document:** [[here](https://docs.google.com/document/d/1UU_w5wqXIjnntBsiY9AVNBERVxgNWTtAQ0VPEJ79uM8/edit?usp=sharing)]
 
 ---
 
@@ -453,7 +453,7 @@ cover overview, live simulation, policy comparison and stress testing.
 
 ## Deployment
 
-**Deployed dashboard:** [URL goes here after deployment]
+**Deployed dashboard:** [[here](https://smartgrid-environemnt.vercel.app/)]
 
 **Deployment plan.** The dashboard consists of two services with different
 runtime requirements: a Python FastAPI backend that loads PyTorch-backed PPO
@@ -563,7 +563,7 @@ regardless of policy quality.
 
 ## Acknowledgments
 
-- Emmanuel Adjei (supervisor), for methodological guidance throughout.
+- Emmanuel Adjei (supervisor), for guidance throughout.
 - African Leadership University, for the BSc Software Engineering programme
   under which this work was conducted.
 - The Nigerian Electricity Regulatory Commission, for making the Q4 2022
@@ -573,4 +573,4 @@ regardless of policy quality.
 
 ---
 
-_Last updated: [date]. See [thesis document] for the full technical write-up._
+_See [[thesis document](https://docs.google.com/document/d/1UU_w5wqXIjnntBsiY9AVNBERVxgNWTtAQ0VPEJ79uM8/edit?usp=sharing)] for the full technical write-up._
