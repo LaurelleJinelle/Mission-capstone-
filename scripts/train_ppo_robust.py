@@ -1,7 +1,4 @@
 """
-train_ppo_robust.py
-===================
-
 Train PPO with DOMAIN RANDOMIZATION over the scarcity factor. Each episode
 draws a new scarcity uniformly from [scarcity_min, scarcity_max], so the
 agent must learn one policy that adapts to any supply level rather than
