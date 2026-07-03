@@ -138,9 +138,7 @@ mission-capstone/
 │   ├── backend/                    FastAPI, loads models at startup
 │   └── frontend/                   Vite + React + Tailwind + Recharts
 ├── docs/
-│   ├── screenshots/                dashboard captures for this README
-│   ├── figures/                    plots from the results section
-│   └── proposal.pdf                original approved proposal
+│   └── screenshots/                dashboard captures 
 └── .gitignore
 ```
 
